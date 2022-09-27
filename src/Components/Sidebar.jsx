@@ -2,7 +2,7 @@ import SocialNetworkContainer from "./SocialNetworkContainer";
 import InformationContainer from "./InformationContainer";
 
 import Avatar from "../img/FotoIgor.jpg";
-import "../styles/components/sidebar.css";
+import "../Styles/components/sidebar.css";
 import Curriculo from "../Img/IgorGomesCV.pdf"
 
 const Sidebar = () => {
