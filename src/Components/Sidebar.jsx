@@ -1,7 +1,7 @@
 import SocialNetworkContainer from "./SocialNetworkContainer";
 import InformationContainer from "./InformationContainer";
 
-import Avatar from "../img/FotoIgor.jpg";
+import Avatar from "../Img/FotoIgor.jpg";
 import "../Styles/sidebar.css";
 import Curriculo from "../Img/IgorGomesCV.pdf"
 
