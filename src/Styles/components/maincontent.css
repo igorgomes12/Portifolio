@@ -1,0 +1,39 @@
+#main-content {
+  background-color: #111;
+  flex: 2 1 0;
+  border-radius: 10px;
+  padding: 3rem;
+}
+#main-content section {
+  display: flex;
+  flex-direction: column;
+}
+#main-content h2 {
+  color: #FFF;
+  font-size: 2.2rem;
+  margin-bottom: 1.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: start;
+  gap: 1rem;
+}
+#main-content h2:after {
+  content: "";
+  background: linear-gradient(90deg, #4e81f0 0%, #0d0a8f 98%);
+  height: 3px;
+  width: 30%;
+}
+#main-content p {
+  color: #a6a6a6;
+  margin-bottom: 1rem;
+  line-height: 1.3rem;
+}
+#main-content .btn {
+  align-self: start;
+  padding: 1rem 1.2rem;
+  color: #FFF;
+  background: linear-gradient(90deg, #4e81f0 0%, #0d0a8f 98%);
+  text-decoration: none;
+  border-radius: 3rem;
+}/*# sourceMappingURL=maincontent.css.map */
